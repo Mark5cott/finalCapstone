@@ -20,3 +20,6 @@ Nam molestie nunc vitae tellus cursus rhoncus. Suspendisse quis molestie ipsum, 
 
 ## Credits
 Author: Mark Scott
+
+<img width="388" alt="image" src="https://github.com/Mark5cott/finalCapstone/assets/127673887/9a6e6745-1528-4a8d-896d-85b1c9223f51">
+
