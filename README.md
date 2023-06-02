@@ -28,14 +28,24 @@ python -m spacy download en_core_web_sm
 5. Once the installation is complete, you can run the code using a Python interpreter or an integrated development environment (IDE) of your choice.
 
 ## Usage
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ut cursus leo. Nam accumsan ultricies dignissim. Fusce mollis faucibus nunc vitae placerat. Fusce suscipit sit amet augue at mattis. Fusce imperdiet a ante ac gravida. Nunc et varius lorem. Ut non mi turpis. Etiam sed sem nec nibh suscipit scelerisque. Fusce in ornare velit. Aliquam ut sodales turpis. Aliquam eu ultrices enim, et convallis nulla. Praesent eget sodales turpis. Nam eu aliquet tortor.
+To use this project, follow these steps:
 
-Nam molestie nunc vitae tellus cursus rhoncus. Suspendisse quis molestie ipsum, imperdiet tempus massa. Donec quis sodales nisi. Aenean quis magna augue. Nulla finibus eros ut sem ultricies, a auctor metus volutpat. Maecenas non leo ut leo mattis tempor eget vitae orci. Duis justo ipsum, mollis a est nec, consequat blandit quam. Pellentesque id imperdiet augue. Maecenas mollis accumsan nisi et mattis. Cras sed justo scelerisque, feugiat tellus eget, suscipit lacus. Phasellus est felis, rutrum quis ipsum nec, pellentesque varius felis. Aenean ultricies tortor et erat vulputate lacinia. Duis imperdiet tellus eu felis aliquet faucibus.
+1. Ensure that you have installed spaCy and downloaded the English language model as described in the installation section.
+
+2. Open a Python interpreter or IDE (e.g., Visual Studio).
+
+3. Copy and paste the provided code into your Python environment (amend the garden path sentences starting on line 13, if you want to test this on other sentences)
+
+4. Execute the code.
+
+5. The program will tokenize the garden path sentences and print the output (see screenshot below)
 
 <img width="388" alt="image" src="https://github.com/Mark5cott/finalCapstone/assets/127673887/9a6e6745-1528-4a8d-896d-85b1c9223f51">
 
+6. It will also perform named entity recognition (NER) and print the recognized entities in each sentence.
+
+7. Additionally, the program includes explanations of the recognized entities 'FAC' and 'GPE' from spaCy (change the spaCy entity code to obtain other explanations)
+
 ## Credits
-Author: Mark Scott
-
-
+Author: Mark Scott / Hyperion
 
