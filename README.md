@@ -1,2 +1,2 @@
-# finalCapstone
-Task 25
+# Project Name: Garden Path Sentence Analysis with spaCy
+
